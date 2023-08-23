@@ -1,0 +1,89 @@
+body{
+	background-color: #ffae42;
+	font-family: Dancing Script;
+	font-size: 20px;
+}
+header{
+	background-color: #e2a42d;
+	padding: 5px;
+	width:100%;
+	height: 100px;
+	margin: -10px;
+}
+h1{
+	display: inline;
+	float: left;
+}
+#logo{
+	float: left;
+	padding-left: 450px;
+}
+
+nav{
+	background-color: white;
+	
+}
+li{
+	display: inline-block;
+	padding: 10px;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+.selected{
+	color: Yellow;
+}
+h3{
+	color: white;
+	font-weight: unset;
+}
+.marquee{
+	padding-left: 100px;
+}
+form{
+	width: 500px;
+	margin-left: 450px;
+	background-color: white ;
+	color: black;
+	padding:12px;
+	border-radius: 25px;
+}
+input{
+	width: 200px;
+	border-radius: 12px;
+	border: none;
+	background-color: #ffae42;
+	color: white;
+	margin-left: 150px;
+}
+label{
+	margin-left: 150px;
+	border: #ffae42 solid 2px;
+	display: block;
+	width: 200px;
+}
+::placeholder{
+	color: white;
+}
+.contact{
+	color: white;
+}
+footer{
+	background-color: #e2a42d;
+	padding: 10px;
+	color: black;
+}
+#footer{
+	color: black;
+}
+button {
+  background-color:#11f555; 
+  border: none;
+  color: white;
+  padding: 2%;
+  text-align: center;
+  font-size: 16px;
+  margin-left: 200px;
+  border-radius: 12px;
+}
